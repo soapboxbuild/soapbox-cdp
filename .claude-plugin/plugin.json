@@ -1,0 +1,9 @@
+{
+  "name": "soapbox-cdp",
+  "version": "0.1.0",
+  "description": "CDP Real Estate sector disclosure — map portfolio energy/emissions/water data to the CDP questionnaire, validate completeness against scoring bands, export submission-ready responses, and track year-over-year scores.",
+  "author": { "name": "Soapbox", "url": "https://soapbox.build" },
+  "homepage": "https://github.com/soapboxbuild/soapbox-cdp",
+  "license": "Apache-2.0",
+  "skills": ["skills"]
+}
